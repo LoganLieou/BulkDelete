@@ -1,0 +1,4 @@
+(executable
+ (public_name bulk_delete)
+ (name main)
+ (libraries bulk_delete cohttp-lwt-unix))
